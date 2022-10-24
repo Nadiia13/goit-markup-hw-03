@@ -270,6 +270,7 @@ body{
     line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
+    color: var(--main-titlet-color);
 }
 
 /*Team*/
