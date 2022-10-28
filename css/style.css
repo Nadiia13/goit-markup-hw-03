@@ -124,7 +124,7 @@ body{
     font-weight: 500;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--main-title-color) ;
+    color: var(--main-titlet-color);
     
 }
 
@@ -444,6 +444,7 @@ footer{
     letter-spacing: 0.03em;
     color: var(--main-titlet-color);
     background: var(--button-color);
+    border: none;
     border-radius: 4px;
     border-color: transparent;
 }
@@ -455,7 +456,6 @@ footer{
 
  .button-title:hover,
  .button-title:focus{
-    color: var(--main-accent-color);
     color: var(--main-background);
     background: var(--main-accent-color);
  }
